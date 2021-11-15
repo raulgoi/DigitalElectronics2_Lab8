@@ -56,6 +56,11 @@ Raúl Gómez Ibáñez
                 twi_stop();
                 /* Test result from I2C bus. If it is 0 then move to ACK state, 
                 * otherwise move to IDLE */
+                
+                if (result == 0)
+                    state = STATE_ACK;
+                else
+                    state = STATE_IDLE;
 
               break;
 
