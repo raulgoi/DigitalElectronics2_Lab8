@@ -24,4 +24,9 @@ Raúl Gómez Ibáñez
 
 
 
+## Scheme: meteo station
+
+
+![Dibujo Lab8](https://user-images.githubusercontent.com/91128806/141790964-c4ddf99c-35d8-45fe-9427-141a87406255.png)
+
 
