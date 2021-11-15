@@ -16,6 +16,10 @@ Raúl Gómez Ibáñez
 ## I2C
 
 
+
+![I2C Communication](https://user-images.githubusercontent.com/91128806/141847315-15fb3db0-58ca-4d34-af87-3b70d09cb2ca.jpeg)
+
+
 ### Code
 
 
